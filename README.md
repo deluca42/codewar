@@ -12,7 +12,6 @@ Collection of codewar problems how im solved
 </ol>
 
 ## java if else problem
-1.
 <ol>
   <li>https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true</li>
 </ol>
