@@ -2,9 +2,7 @@
 
 Collection of codewar problems how im solved 
 
-## java introduction
-
-## java stdin I and II
+## java introduction stdin I and II
 
 <ol>
   <li>https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem</li>
