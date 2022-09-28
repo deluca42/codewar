@@ -1,10 +1,10 @@
-package outputformat;
+package hackerrank.introduction.outputformatutputformat;
 
 import java.util.Scanner;
 
 //https://www.hackerrank.com/challenges/java-output-formatting/problem
 
-public class output {
+public class Output {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("================================");

@@ -1,8 +1,8 @@
-package stdintwo;
+package hackerrank.introduction.stdintwo;
 
 //https://www.hackerrank.com/challenges/java-if-else/problem?h_r=next-challenge&h_v=zen
 
-public class stdintwo {
+public class Stdintwo {
     public static void main(String[] args) throws Exception {
         int N = 20;
         String result = "";

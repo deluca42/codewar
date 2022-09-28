@@ -1,9 +1,9 @@
-package scan;
+package hackerrank.introduction.scan;
 import java.util.Scanner;
 
 //https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
 
-public class scanner {
+public class Scanner {
 
     public static void main(String[] args) {
         

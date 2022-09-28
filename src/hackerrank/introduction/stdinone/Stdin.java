@@ -1,10 +1,10 @@
-package stdinone;
+package hackerrank.introduction.stdinone;
 
 import java.util.*;
 
 //https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
 
-public class stdin {
+public class Stdin {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
