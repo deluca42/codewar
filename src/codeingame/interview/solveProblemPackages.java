@@ -1,6 +1,6 @@
 package codeingame.interview;
 
-public class solveProblemPackages {
+public class SolveProblemPackages {
     
     public static void main(String[] args) {
 

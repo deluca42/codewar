@@ -3,7 +3,7 @@ package primenumber;
 import java.util.ArrayList;
 import java.util.List;
 
-public class primeNumberCount {
+public class PrimeNumberCount {
     public static void main(String[] args) {
         // prime number is a whole number greater than 1
         // prime number is divided para 1 and itself 
