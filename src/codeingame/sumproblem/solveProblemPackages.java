@@ -1,6 +1,7 @@
 package codeingame.sumproblem;
 
-public class packages {
+public class solveProblemPackages {
+    
     public static void main(String[] args) {
 
         System.out.println(solve(160, 70,70, 10 ));
@@ -41,7 +42,7 @@ public class packages {
         }
         return result;
     }
-    
+
     private static String heavy(int mass, String result) {
         if (mass >= 20 ) {
             result = "heavy";
