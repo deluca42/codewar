@@ -12,10 +12,12 @@ public class solveProblemPackages {
 
         String result = ""; 
         String packages = ""; 
+        String isHeavy = "";
+        String isBulky = "";
         int volume = width * height * length ;
         
-        result = heavy(mass, result);
-        result = bulky ( result,  volume,  width,  height,  length );
+        isHeavy = heavy(mass, result);
+        isBulky = bulky ( result,  volume,  width,  height,  length );
 
         if (result.equals("bulky") || result.equals("heavy")  ){
             packages = "special"; 
