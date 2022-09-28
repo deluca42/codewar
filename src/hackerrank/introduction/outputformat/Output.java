@@ -1,4 +1,4 @@
-package hackerrank.introduction.outputformatutputformat;
+package hackerrank.introduction.outputformat;
 
 import java.util.Scanner;
 

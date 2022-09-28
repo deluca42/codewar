@@ -3,5 +3,12 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "codeingame",
+        "hackerrank",
+        "outputformatutputformat",
+        "primenumber",
+        "stdinone"
     ]
 }
